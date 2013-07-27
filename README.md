@@ -10,6 +10,10 @@ Generated following the specs
 * [RFC 2412](http://tools.ietf.org/html/rfc2412)
 * [RFC 3526](http://tools.ietf.org/html/rfc3526)
 
+[![build status](https://secure.travis-ci.org/juliangruber/modp-groups.png)](http://travis-ci.org/juliangruber/modp-groups)
+
+[![testling badge](https://ci.testling.com/juliangruber/modp-groups.png)](https://ci.testling.com/juliangruber/modp-groups)
+
 ## Usage
 
 ```js
