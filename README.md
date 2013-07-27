@@ -1,7 +1,7 @@
 
 # modp-groups
 
-MODP groups used by
+[MODP](http://en.wikipedia.org/wiki/Modular_exponentiation) groups used by
 [node core](https://github.com/joyent/node/blob/master/src/node_crypto_groups.h) for
 [Diffie-Hellman key exchange](http://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange).
 
