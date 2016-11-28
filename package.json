@@ -12,10 +12,10 @@
     "test": "tape test/*.js"
   },
   "dependencies": {
-    "bignumber.js": "~1.0.1"
+    "bignumber.js": "~3.0.1"
   },
   "devDependencies": {
-    "tape": "~1.0.4"
+    "tape": "~4.6.3"
   },
   "keywords": [
     "modp",
